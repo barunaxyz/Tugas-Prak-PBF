@@ -1,6 +1,6 @@
 Tugas Praktikum PBF RA
 Kelompok 3:
-1. Haikal Dwi Syaputra
+1. Haikal Dwi Syaputra 1
 2. Baruna Abirawa
 3. Nisrina Nur Afifah
 4. Muhammad Regi Abdi Putra
